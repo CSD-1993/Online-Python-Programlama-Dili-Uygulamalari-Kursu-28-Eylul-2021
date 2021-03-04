@@ -1,4 +1,4 @@
-# Online-Python-Programlama-Dili-Uygulama-Kursu-Mayis-2021
+# Online-Python-Programlama-Dili-Uygulama-Kursu-Mayıs-2021
 + Kurs __[C ve Sistem Programcıları Derneği](http://www.csystem.org/)__ tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
 + Kurs __18 Mayıs 2021__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
