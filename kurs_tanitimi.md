@@ -1,4 +1,4 @@
-## Online Python Programlama Dili Uygulama Kursu - Genel Tanıtım
+## Online Python Programlama Dili Uygulamaları Kursu - Genel Tanıtım
 <b>Python</b> genel amaçlı, nesne yönelimli, fonksiyonel özellikleri olan, çok modelli ve nispeten kolay öğrenilebilen bir programlama dilidir. Özellikle veri analizinde ve çözümlenmesinde, yapay zeka ve makine öğrenmesinde tercih edilmektedir. Bu özellikleri nedeniyle __Python__ Programlama Dilinin popülaritesi özellikle son yıllarda oldukça artmıştır. 
 
 Bu kurs __Python__ Programlama Dilinde uygulama geliştirmeye yöneliktir. Aynı zamanda bu kurs __Yapay Zeka ve Makine Öğrenmesi__ kursu için de bir ön aşama olarak işlev görmektedir. 
