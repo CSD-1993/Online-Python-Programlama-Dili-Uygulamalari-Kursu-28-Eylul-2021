@@ -15,7 +15,7 @@ Bu kurs için katılımcıların temel düzeyde __Python__ diline hakim olmalar�
 Eğitim Süresi __160__ Saattir.
 
 ## Ders Saatleri
-Dersler __Salı-Perşembe__ günleri saat __19:30-22:30__ saatleri arasında __4__'er saat olarak __(haftada 8 saat)__ yapılacaktır.
+Dersler __Salı-Perşembe__ günleri saat __19:30-22:30__ saatleri arasında __3__'er saat olarak __(haftada 6 saat)__ yapılacaktır.
 
 # Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkanı __Kaan ASLAN__ tarafından verilmektedir. __Kaan ASLAN__ yazılım alanında Türkiye’deki en deneyimli eğitmenlerdendir. Çeşitli pozisyonlarda onlarca projede bulunmuş, __200__'ün üzerinde kuruma eğitim ve danışmanlık hizmetleri vermiştir. 
