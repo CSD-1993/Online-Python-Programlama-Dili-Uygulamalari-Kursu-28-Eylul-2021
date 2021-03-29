@@ -5,7 +5,7 @@ Bu kurs __Python__ Programlama Dilinde uygulama geliştirmeye yöneliktir. Aynı
 
 Kursun temel özellikleri şöyle betimlenebilir:
 
-* Kurs __Python__ Programlama Dilini ayrıntılı biçimde ve uygulamalı olarak öğretme iddiasındadır.
+* Kurs __Python__ Programlama Dilini bilen kişilere uygulama geliştirme becerisi kazandırmayı hedeflemektedir.
 * Kurs __Yapay Zeka ve Makine Öğrenmesi__ kursu için bir hazırlık kursu işlevini de görmektedir. 
 
 ## Ön Koşul
