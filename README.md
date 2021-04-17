@@ -6,7 +6,7 @@
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi __160__ saattir. 
 + Dersler __Salı ve Perşembe__ günleri __19:30 - 22:30__ saatleri arasında __3__'er saat __(haftada 6 saat)__ yapılacaktır. 
-+ Kursun toplam ücreti KDV dahil __3850 TL__'dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) __3500 TL__'dir . Katılımcılar kurs ücretini dilerlerse __2 taksitte__ ödeyebilirler.
++ Kursun toplam ücreti KDV dahil __3850 TL__'dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __3500 TL__'dir . Katılımcılar kurs ücretini dilerlerse __2 taksitte__ ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Uygulamalari-Kursu-Mayis-2021/blob/main/kurs_tanitimi.md)
