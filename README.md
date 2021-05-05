@@ -1,7 +1,7 @@
-## Online Python Programlama Dili Uygulamaları Kursu Mayıs 2021
+## Online Python Programlama Dili Uygulamaları Kursu Eylül 2021
 
 + Kurs __[C ve Sistem Programcıları Derneği](http://www.csystem.org/)__ tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
-+ Kurs __18 Mayıs 2021__ tarihinde başlayacaktır.
++ Kurs __14 Eylül 2021__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi __160__ saattir. 
