@@ -12,4 +12,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Uygulamalari-Kursu-Mayis-2021/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Uygulamalari-Kursu-Mayis-2021/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Uygulamalari-Kursu-Mayis-2021/blob/main/sss.md)
-+ [Kursa Kayıt]( https://us02web.zoom.us/meeting/register/tZIlduGsqT8vHtJL6MWF6MY5QwvAaUIgJq9H)
++ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZAucuyhqTstHt2oSl9qFlseTIfnU-JzYgLC)
